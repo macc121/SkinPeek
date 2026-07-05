@@ -1,8 +1,8 @@
 {
   "token": "MTUyMzE4Mjk3OTAxNzYwNTlwMQ.GzL2BN.TRJkpOhlJOO8tR5iDlHjfUXdRub2F7mob1r-80",
-  "fetchSkinPrices": true,
-  "fetchSkinRarities": true,
-  "localiseSkinNames": true,
+  "fetchSkinPrices": false,
+  "fetchSkinRarities": false,
+  "localiseSkinNames": false,
   "linkItemImage": true,
   "useEmojisFromServer": "",
   "refreshSkins": "10 0 0 * * *",
